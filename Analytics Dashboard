@@ -1,0 +1,10 @@
+git init
+# Customer Feedback Analytics Dashboard
+
+This project analyzes customer feedback data to identify trends, satisfaction scores, and improvement opportunities.  
+It uses Python for data analysis and visualization, with an interactive dashboard built using Streamlit.
+
+## Features
+- Sentiment analysis of feedback text.
+- Data visualization for trends and metrics.
+- Feedback categorization by themes.
